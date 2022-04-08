@@ -1,3 +1,21 @@
 [submodule "api"]
 	path = api
 	url = https://github.com/elvisfernandess/api
+[submodule "water-leak-detection"]
+	path = water-leak-detection
+	url = https://github.com/Gustavo-V-F/water-leak-detection
+[submodule "PI3"]
+	path = PI3
+	url = https://github.com/otaviojfreire/PI3
+[submodule "carol/PI3"]
+	path = carol/PI3
+	url = https://github.com/Caroles12/PI3
+[submodule "kws-dia-public-content"]
+	path = kws-dia-public-content
+	url = https://github.com/LeonardoSanBenitez/kws-dia-public-content
+[submodule "Sistema_Almox"]
+	path = Sistema_Almox
+	url = https://github.com/nycolascoelho/Sistema_Almox
+[submodule "MarketBasketAnalysis"]
+	path = MarketBasketAnalysis
+	url = https://github.com/rayanmst/MarketBasketAnalysis
